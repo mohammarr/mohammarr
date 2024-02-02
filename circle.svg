@@ -1,4 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 100" width="500" height="100">
     <circle id="orange-circle" r="30" cx="50" cy="50" fill="orange" />
-    <animate href="#orange-circle" attributeName="cx" from="50" to="450" dur="1s" begin="mouseenter" />
+    <animate href="#orange-circle" attributeName="cx" from="50" to="450" dur="1s" repeatDur="indefinite" />
 </svg>
