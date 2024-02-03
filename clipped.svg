@@ -16,11 +16,11 @@
         </clipPath>
     </defs>
     <text x="0" y="20" fill="black">
-        Hi there 👋
+        Hi There 👋
     </text>
     <rect id="part" width="30" height="25" transform="skewX(30)" clip-path="url(#rect-clip)" />
     <animate href="#part" attributeName="x" dur="5s" repeatDur="indefinite" from="86" to="-600" />
     <text x="0" y="20" fill="white" clip-path="url(#text-clip)">
-        Hi there 👋
+        Hi There 👋
     </text>
 </svg>
