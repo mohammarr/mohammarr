@@ -1,5 +1,5 @@
 <!-- ![](https://raw.githubusercontent.com/mohammarr/mohammarr/main/circle.svg?sanitize=true) -->
-![](https://raw.githubusercontent.com/mohammarr/mohammarr/main/clipped.svg?sanitize=true)
+![](https://raw.githubusercontent.com/mohammarr/mohammarr/main/clipped.svg)
 
 <!--
 **mohammarr/mohammarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
